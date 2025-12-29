@@ -1,2 +1,1 @@
-# full-stack-assessment
-Next.js and Nest.js frameworks
+# Real-time Task Manager
